@@ -11,6 +11,9 @@ To start the game again click on the reset button.
 -   the application should return pong for numbers divisible by 5
 -   the application should return pingpong for numbers divisible by both 3 and 5
 
+![Alt text](/img/pingpong.png?raw=true "Optional Title")
+
+
 ## AUTHOR
 By Ahmed Ibrahim
 ## PREREQUISITES
