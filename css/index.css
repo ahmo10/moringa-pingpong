@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    margin: 0;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #88839d;
+    height: 300px;
+}
+  .container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    height: 1000px;
+}
