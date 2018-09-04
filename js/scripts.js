@@ -23,6 +23,14 @@ function divisiblebyFifteen(number) {
       return "ping";
   
     }
-    // return divisiblebyFive(number);
+    return divisiblebyFive(number);
+  }
+
+function divisiblebyFive(number) {
+    if (number % 5 === 0) {
+      return "pong";
+  
+    }
+    return number;
   }
   
