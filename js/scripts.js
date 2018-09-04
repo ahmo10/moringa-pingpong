@@ -16,5 +16,13 @@ function divisiblebyFifteen(number) {
       return "pingpong";
   
     }
-    // return divisiblebyThree(number)
+    return divisiblebyThree(number)
   }
+  function divisiblebyThree(number) {
+    if (number % 3 === 0) {
+      return "ping";
+  
+    }
+    // return divisiblebyFive(number);
+  }
+  
